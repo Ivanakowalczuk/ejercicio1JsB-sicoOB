@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de Javascript con OpenBootcamp y espero aprender mucho",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivanakowalczuk/ejercicio1JsB-sicoOB.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Ivana Kowalczuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivanakowalczuk/ejercicio1JsB-sicoOB/issues"
+  },
+  "homepage": "https://github.com/Ivanakowalczuk/ejercicio1JsB-sicoOB#readme"
+}
